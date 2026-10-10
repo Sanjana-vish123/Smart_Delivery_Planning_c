@@ -1,0 +1,91 @@
+
+===== SMART DELIVERY PLANNING =====
+
+1. Enter Package Details
+2. Display Package Details
+3. Calculate Value/Weight Ratio
+4. Sort Packages by Ratio
+5. Find Maximum Value
+6. Display Selected Packages
+7. Exit
+
+Enter your choice: 1
+
+Enter number of packages: 4
+
+Enter value of package 1: 40
+Enter weight of package 1: 5
+
+Enter value of package 2: 30
+Enter weight of package 2: 10
+
+Enter value of package 3: 50
+Enter weight of package 3: 5
+
+Enter value of package 4: 20
+Enter weight of package 4: 4
+
+Enter vehicle carrying capacity: 15
+
+Package details entered successfully!
+
+
+===== SMART DELIVERY PLANNING =====
+
+Enter your choice: 2
+
+Package Details:
+ID      Value   Weight  Ratio
+1       40.00   5.00    8.00
+2       30.00   10.00   3.00
+3       50.00   5.00    10.00
+4       20.00   4.00    5.00
+
+Vehicle Capacity: 15.00
+
+
+===== SMART DELIVERY PLANNING =====
+
+Enter your choice: 3
+
+Value/Weight Ratios:
+Package 1: 8.00
+Package 2: 3.00
+Package 3: 10.00
+Package 4: 5.00
+
+
+===== SMART DELIVERY PLANNING =====
+
+Enter your choice: 4
+
+Packages sorted by decreasing ratio.
+
+
+===== SMART DELIVERY PLANNING =====
+
+Enter your choice: 5
+
+Packages sorted by decreasing ratio.
+
+Maximum value obtained: 113.00
+Total weight used: 15.00
+
+
+===== SMART DELIVERY PLANNING =====
+
+Enter your choice: 6
+
+Selected Packages:
+ID      Value   Weight  Fraction   Selected Value
+3       50.00   5.00    1.00       50.00
+1       40.00   5.00    1.00       40.00
+4       20.00   4.00    1.00       20.00
+2       30.00   10.00   0.10       3.00
+
+
+===== SMART DELIVERY PLANNING =====
+
+Enter your choice: 7
+
+Exiting program. Thank you!
